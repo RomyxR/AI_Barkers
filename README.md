@@ -8,3 +8,6 @@
 This is a project to create AI streams with characters from the Barkers cartoon with open source code, according to which everyone can make such streams for free.
 The project will be written in Python, but there may be inserts in other programming languages.
 
+Проект еще не готов, но он будет разработан.
+The project is not ready yet, but it will be developed.
+
