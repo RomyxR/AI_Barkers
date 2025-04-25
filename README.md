@@ -2,7 +2,7 @@
 
 ![alt text](https://github.com/RomyxR/AI_Barkers/blob/main/AIB_LOGO.png?raw=true)
 
-[](voices.wav)
+[hi](https://github.com/RomyxR/AI_Barkers/blob/main/voices.wav)
 
 ### RU 
 Это проект по созданию AI стримов с персонажами из мультфильма Барбоскины с открытым исходным кодом, по которому все смогут делать такие стримы за бесплатно. 
