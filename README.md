@@ -1,5 +1,9 @@
 # AI Barkers
 
+<audio controls>
+  <source src="https://github.com/RomyxR/AI_Barkers/blob/main/voices.wav" type="audio/mpeg">
+   
+  </audio>
 ![alt text](https://github.com/RomyxR/AI_Barkers/blob/main/AIB_LOGO.png?raw=true)
 
 [hi](https://github.com/RomyxR/AI_Barkers/blob/main/voices.wav?raw=true)
