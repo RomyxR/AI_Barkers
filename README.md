@@ -6,7 +6,6 @@
 Это проект по созданию AI стримов с персонажами из мультфильма Барбоскины с открытым исходным кодом, по которому все смогут делать такие стримы за бесплатно. 
 Проект будет писаться на языке Python, но могут быть вставки на других языках программирования.
 
-
 ### EN 
 This is a project to create AI streams with characters from the Barkers cartoon with open source code, according to which everyone can make such streams for free.
 The project will be written in Python, but there may be inserts in other programming languages.
@@ -14,3 +13,9 @@ The project will be written in Python, but there may be inserts in other program
 Проект еще не готов, но он будет разработан.
 The project is not ready yet, but it will be developed.
 
+Технологии и библиотеки/Technologies and libs:
+- [RVC cli](https://github.com/daswer123/rvc-python)
+- [gTTS](https://github.com/pndurette/gTTS)
+- [hugchat](https://github.com/Soulter/hugging-chat-api)
+
+[Voice Barkers RVC models](https://huggingface.co/SuperRomanchik/Barkers_voice_pack)
