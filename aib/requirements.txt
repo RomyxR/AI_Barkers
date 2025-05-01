@@ -1,0 +1,9 @@
+openai
+pydub
+gtts
+hugchat
+rvc-python
+torch
+torchaudio
+httpx
+--index-url https://download.pytorch.org/whl/cu118
