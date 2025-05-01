@@ -26,6 +26,9 @@ The project is not ready yet, but it will be developed.
 ```
 pip install -r requirements.txt
 ```
+
+В data\voice_model из zip на [Voice Barkers RVC models](https://huggingface.co/SuperRomanchik/Barkers_voice_pack) копировать все папки моделей и перекинуть в папку.
+
 ## API и Hugging face
 В файле gena.py находяться 3 первые переменные, что нужно ввести для работы:
 
